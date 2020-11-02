@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+}
+
+body{
+    background-image: url("../../images/login.png");
+    background-size: 100% 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#positionOfLogin{
+    position: relative;
+    top: 350px;
+    text-align: center;
+    border: 2px solid #bdbdd3;
+    background-color: #bdbdd3;
+    width: 350px;
+    border-radius: 25px;
+    opacity: 80%;
+}
+
+.MyInput{
+    border-radius: 25px;
+    padding: 12px 14px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+    text-indent: 5px;
+    transition: all 0.6s ease;
+    display: inline;
+    width: 300px;
+}
+
+input:hover{
+    padding: 14px 16px;
+}
+
+::placeholder{color: #bdbdd3;}
+
+p{
+    color: red;
+    text-align: left;
+    margin-left: 1.5em;
+    font-size: 10pt;
+}
+
+.MyButton{
+    text-align: center;
+    background: #817ffe;
+    border: 0px solid transparent;
+    border-radius: 25px;
+    padding: 8px 14px;
+    /*box-sizing: border-box;*/
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    outline: none;
+    text-indent: 0px;
+    transition: all 0.6s ease;
+    display: inline;
+    width: 300px;
+}
+
+.MyButton:hover{
+    background: #403866;
+    transition: .6s;
+}

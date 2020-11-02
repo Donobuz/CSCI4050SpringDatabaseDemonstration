@@ -1,0 +1,215 @@
+
+li, a
+{
+    font-family:'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 18px ;
+    color: floralwhite;
+
+}
+#bal
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 13%;
+    background: none;
+    text-decoration: none;
+}
+
+#nav__links li
+{
+
+    list-style: none;
+    display: inline-block;
+    padding-left:30px;
+    padding-right:30px;
+    background: none;
+    text-decoration: none;
+}
+
+.grid
+{
+    display: block;
+    width: 1902px;
+    height: 451px;
+    padding: 40px 20px;
+    box-sizing: border-box;
+    /* background: #ffffff; */
+    background-image: url('images/wel1.png');
+    background-repeat: no-repeat;
+    background-position: 120% 25%;
+}
+
+#g2
+{
+    background: #23286b;
+    background-image: none;
+    height: 518px;
+}
+
+
+
+
+#card1
+{
+    border: 3px solid white;
+    margin-right: 76em;
+    margin-left: 13em;
+    margin-top: 1em;
+    margin-bottom: auto;
+    display: inline-block;
+    padding: 10px;
+}
+
+.card2
+{
+    border: 3px solid #23286b;
+    border-radius: 26px;
+    margin-right: 85em;
+    margin-left: 13em;
+    margin-top: 2em;
+    margin-bottom: -30em;
+    float: right;
+    padding: 10px;
+}
+.card3
+{
+    border: 3px solid #23286b;
+    margin-right: 62em;
+    margin-left: 36em;
+    margin-top: 2em;
+    margin-bottom: 3.4em;
+    float: right;
+    padding: 10px;
+}
+.card4
+{
+    border: 3px solid #23286b;
+    float: right;
+    margin-right: 39em;
+    margin-left: 59em;
+    margin-top: -30.9em;
+    margin-bottom: -12em;
+    padding: 10px;
+}
+
+.card5
+{
+    border: 3px solid #23286b;
+    float: right;
+    margin-right: 15em;
+    margin-left: 83em;
+    margin-top: -30.7em;
+    margin-bottom: -12em;
+    padding: 10px;
+}
+
+
+.headstuff
+{
+    color: #817ffe;
+    font-weight: bold;
+    font-size: 45px;
+    /*font-size:80px;*/
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: .4em;
+}
+
+#butt2
+{
+    background: #817ffe;
+    border:0;
+    cursor: pointer;
+    color: #f3ffff;
+    border-radius: 26px;
+    padding: 12px 46px;
+    box-sizing: border-box;
+    margin-top: 2.5em;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+#butt2:hover{ background: #403866; transition: .6s;}
+
+#butt1
+{
+    border: 0;
+    cursor: pointer;
+    color: #817ffe ;
+    border-radius: 26px;
+    padding: 12px 38px;
+    box-sizing: border-box;
+    margin-top: 1em;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+#butt1:hover{ background: #403866; color: #f3ffff; transition: .6s;}
+
+p
+{
+    color: #403866;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.butt3
+{
+    border: 0;
+    cursor: pointer;
+    color: #817ffe ;
+    border-radius: 26px;
+    padding: 12px 38px;
+    box-sizing: border-box;
+    margin-top: 1.5em;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.butt3:hover{ background: #403866; color: #f3ffff; transition: .6s;}
+
+.icon
+{
+    margin-bottom: 1em;
+}
+#cardt
+{
+    text-indent: -3px;
+}
+
+#ic4
+{
+    height: 40px;
+    width: 40px;
+}
+
+.pnew
+{
+    color: #f3ffff;
+    margin-top: 1.4em;
+    text-align: center;
+
+}
+#pn
+{
+    margin-top: 1em;
+
+}
+
+.sechead
+{
+    color: #f3ffff;
+    text-indent: 10px;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+form
+{
+   margin-left: 4em;
+}
